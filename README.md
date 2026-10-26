@@ -75,7 +75,7 @@ The most contributed Agent Skills repository, built and maintained together with
 | [Brave](#skills-by-brave) | [Browserbase](#skills-by-browserbase) | [CodeRabbit](#skills-by-coderabbit) | [Coinbase](#skills-by-coinbase) |
 | [Datadog Labs](#skills-by-datadog-labs) | [Firebase](#skills-by-firebase) | [Flutter](#skills-by-flutter) | [Venice.ai](#skills-by-veniceai) |
 | [Red Hat](#skills-by-redhat) | [Community](#community-skills) | [Redis](#skills-by-redis) | [NVIDIA](#skills-by-nvidia) |
-| [Google Cloud](#skills-by-google-cloud) | [Quality Standards](#skill-quality-standards) |  |  |
+| [Google Cloud](#skills-by-google-cloud) | [Quality Standards](#skill-quality-standards) | [HeyGen](#skills-by-heygen-hyperframes) |  |
 
 
 
@@ -1479,6 +1479,21 @@ Official skills published by Cypress to help create, maintain, understand, and f
 
 </details>
 
+
+<details>
+<summary><h3 style="display:inline">Skills by HeyGen (HyperFrames)</h3></summary>
+
+Official HyperFrames skills from HeyGen: agents write HTML and render it to video. 7 skills.
+
+- **[heygen-com/hyperframes](https://github.com/heygen-com/hyperframes/tree/main/skills/hyperframes)** - Make, edit and render videos written in HTML
+- **[heygen-com/hyperframes-cli](https://github.com/heygen-com/hyperframes/tree/main/skills/hyperframes-cli)** - Scaffold, preview, check and render HyperFrames projects
+- **[heygen-com/hyperframes-registry](https://github.com/heygen-com/hyperframes/tree/main/skills/hyperframes-registry)** - Install about 450 ready-made transitions, titles, captions and charts
+- **[heygen-com/media-use](https://github.com/heygen-com/hyperframes/tree/main/skills/media-use)** - Get music, voiceover, images and footage for videos
+- **[heygen-com/remotion-to-hyperframes](https://github.com/heygen-com/hyperframes/tree/main/skills/remotion-to-hyperframes)** - Port Remotion and other animation code to HyperFrames
+- **[heygen-com/slideshow](https://github.com/heygen-com/hyperframes/tree/main/skills/slideshow)** - Build and present HTML slideshows with speaker notes
+- **[heygen-com/figma](https://github.com/heygen-com/hyperframes/tree/main/skills/figma)** - Turn Figma frames, tokens and assets into video
+
+</details>
 
 ### Community Skills
 
