@@ -1774,6 +1774,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[first-fluke/oh-my-agent](https://github.com/first-fluke/oh-my-agent)** - Harness skills linked into Claude Code, Codex, Cursor and more
 - **[aurite-ai/agent-verifier](https://github.com/Aurite-ai/agent-verifier)** - Reviews AI agent code for secrets, unbounded loops, hallucinated tools
 - **[finom/vovk](https://github.com/finom/vovk/tree/main/skills)** - Next.js API routes as MCP tools and typed clients
+- **[Cap-go/capgo-skills](https://github.com/Cap-go/capgo-skills)** - Capacitor app upgrades, live updates, native builds and migrations
 - **[beastlabai/multi-llm](https://github.com/beastlabai/multi-llm-plugin/tree/master/skills/multi-llm)** - Reviews plans, code, and commits with multiple coding CLIs.
 - **[EricJujianZou/rederive](https://github.com/EricJujianZou/rederive)** - Understand any codebase by re-designing its decisions from first principles
 - **[laolaoshiren/zh-code-reviewer](https://github.com/laolaoshiren/claude-code-skills-zh/tree/main/skills/zh-code-reviewer)** - Chinese-output code review skill with structured findings and fix suggestions
