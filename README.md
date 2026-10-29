@@ -1548,6 +1548,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[AbubakrChan/product-launch-motion](https://github.com/AbubakrChan/product-launch-motion)** - Website URL to 60 fps launch video with music.
 - **[yuwen-cool/yuwen-publish-precheck](https://github.com/yuwen-cool/yuwen-publish-precheck)** - Review Chinese social content before publishing, with source-backed corrections
 - **[publora/skills](https://github.com/publora/skills)** - Draft, schedule and publish posts to ten social networks
+- **[posteyai/skills](https://github.com/posteyai/skills)** - Draft, schedule and publish social posts to nine networks
 - **[Hyacehila/humanizer-zh-next](https://github.com/Hyacehila/humanizer-zh-next)** - Chinese writing editor with academic and grant proposal modes
 - **[open-salesblink/cold-email-salesblink](https://github.com/open-salesblink/skill/tree/main/skills/cold-email-salesblink)** - Run cold email sequences and outreach campaigns via SalesBlink
 - **[dreammis/social-auto-upload](https://github.com/dreammis/social-auto-upload/tree/main/skills/social-auto-upload)** - Cross-platform publishing CLI and skills for 17 social platforms
