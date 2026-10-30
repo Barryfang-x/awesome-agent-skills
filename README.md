@@ -75,7 +75,7 @@ The most contributed Agent Skills repository, built and maintained together with
 | [Brave](#skills-by-brave) | [Browserbase](#skills-by-browserbase) | [CodeRabbit](#skills-by-coderabbit) | [Coinbase](#skills-by-coinbase) |
 | [Datadog Labs](#skills-by-datadog-labs) | [Firebase](#skills-by-firebase) | [Flutter](#skills-by-flutter) | [Venice.ai](#skills-by-veniceai) |
 | [Red Hat](#skills-by-redhat) | [Community](#community-skills) | [Redis](#skills-by-redis) | [NVIDIA](#skills-by-nvidia) |
-| [Google Cloud](#skills-by-google-cloud) | [Quality Standards](#skill-quality-standards) | [HeyGen](#skills-by-heygen-hyperframes) |  |
+| [Google Cloud](#skills-by-google-cloud) | [Quality Standards](#skill-quality-standards) |  |  |
 
 <br/>
 
@@ -1497,21 +1497,6 @@ Official skills published by Cypress to help create, maintain, understand, and f
 </details>
 
 
-<details>
-<summary><h3 style="display:inline">Skills by HeyGen (HyperFrames)</h3></summary>
-
-Official HyperFrames skills from HeyGen: agents write HTML and render it to video. 7 skills.
-
-- **[heygen-com/hyperframes](https://github.com/heygen-com/hyperframes/tree/main/skills/hyperframes)** - Make, edit and render videos written in HTML
-- **[heygen-com/hyperframes-cli](https://github.com/heygen-com/hyperframes/tree/main/skills/hyperframes-cli)** - Scaffold, preview, check and render HyperFrames projects
-- **[heygen-com/hyperframes-registry](https://github.com/heygen-com/hyperframes/tree/main/skills/hyperframes-registry)** - Install about 450 ready-made transitions, titles, captions and charts
-- **[heygen-com/media-use](https://github.com/heygen-com/hyperframes/tree/main/skills/media-use)** - Get music, voiceover, images and footage for videos
-- **[heygen-com/remotion-to-hyperframes](https://github.com/heygen-com/hyperframes/tree/main/skills/remotion-to-hyperframes)** - Port Remotion and other animation code to HyperFrames
-- **[heygen-com/slideshow](https://github.com/heygen-com/hyperframes/tree/main/skills/slideshow)** - Build and present HTML slideshows with speaker notes
-- **[heygen-com/figma](https://github.com/heygen-com/hyperframes/tree/main/skills/figma)** - Turn Figma frames, tokens and assets into video
-
-</details>
-
 ### Community Skills
 
 <details>
@@ -1537,6 +1522,7 @@ Official HyperFrames skills from HeyGen: agents write HTML and render it to vide
 - **[Eronred/aso-skills](https://github.com/Eronred/aso-skills)** - 30+ App Store Optimization skills for keyword research, metadata optimization, competitor analysis, creative optimization, and mobile growth strategies via Appeeky API
 - **[degausai/wonda](https://github.com/degausai/wonda)** - AI content creation: images, video, music, audio, editing, publishing
 - **[gitroomhq/postiz-agent](https://github.com/gitroomhq/postiz-agent)** - Schedule social media posts across 28+ platforms programmatically
+- **[heygen-com/hyperframes](https://github.com/heygen-com/hyperframes)** - Write videos as HTML and render them to MP4: launch films, explainers, captions, charts and 450+ ready-made blocks, by HeyGen
 - **[taisly/agent](https://github.com/taisly/agent)** - Codex plugin, Agent Skill, CLI, and MCP server for publishing approved short-form videos to TikTok, Instagram Reels, YouTube Shorts, X, and Facebook through Taisly
 - **[indranilbanerjee/digital-marketing-pro](https://github.com/indranilbanerjee/digital-marketing-pro)** - 150-skill engagement methodology — 12-Part Strategy Flow, 25 specialist agents, EU AI Act Article 50 ready (C2PA signing), 6-platform AEO/GEO incl. Google AI Mode
 - **[infrasity-labs/dev-gtm-claude-skills](https://github.com/infrasity-labs/dev-gtm-claude-skills)**: GTM-focused skill collection for developer go-to-market workflows including launch planning, positioning, and outbound sequences.
